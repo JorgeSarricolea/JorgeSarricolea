@@ -8,7 +8,7 @@
 
 ### Programming Languages :computer:
 
-[<img src="assets/javascript.png" alt="js logo" width="40">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img src="assets/javascript.png" alt="js logo" width="50">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img src="assets/python.png" alt="python logo" width="50">](https://www.python.org/)
-[<img src="assets/java.png" alt="ts logo" width="30">](https://www.java.com/es/)
-[<img src="assets/bubbleio.png" alt="bl logo" width="30">](https://manual.bubble.io) 
+[<img src="assets/java.png" alt="ts logo" width="50">](https://www.java.com/es/)
+[<img src="assets/bubbleio.png" alt="bl logo" width="50">](https://manual.bubble.io) 
