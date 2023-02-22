@@ -1,1 +1,1 @@
-# Your friendly neighbor web developer and UX/UI designer. I´m a mexican developer.
+# Hi there, I'm a Web Developer and UX/UI Designer.
