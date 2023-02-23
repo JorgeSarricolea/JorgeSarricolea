@@ -1,4 +1,4 @@
-# Hi there, I'm a Web Developer and UX/UI Designer.
+# Hi there, I'm Jorge Sarricolea.
 
 ## Stats 📈
 
