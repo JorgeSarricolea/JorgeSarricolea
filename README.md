@@ -1,4 +1,4 @@
-# Hi there, I'm [Jorge Sarricolea](https://jorgesarricolea.com)
+# Hi there, I'm [Jorge Sarricolea](https://jorgesarricolea.com){:target="_blank"}
 
 ## Stats 📈
 
