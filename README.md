@@ -1,6 +1,4 @@
-# Hi there, I'm Jorge Sarricolea.
-
-## Check my [Portfolio](https://jorgesarricolea.com)
+# Hi there, I'm [Jorge Sarricolea](https://jorgesarricolea.com)
 
 ## Stats 📈
 
