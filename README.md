@@ -10,7 +10,7 @@
 ### Frameworks 💼
 [<img src="assets/react.png" alt="react logo" width="50">](https://es.reactjs.org/docs/getting-started.html)
 
-### FRONT-END 🖼️
+### Frontend 🖼️
 [<img src="assets/boostrap.png" alt="boostrap logo" width="50">](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
 
 ### Tools ⚙️
