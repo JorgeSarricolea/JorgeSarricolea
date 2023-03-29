@@ -1,8 +1,5 @@
 # Hi there, I'm [Jorge Sarricolea](https://jorgesarricolea.com)
 
-### FRONT-END 🖼️
-[<img src="assets/boostrap.png" alt="boostrap logo" width="50">](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
-
 ### Programming Languages 🖥️
 
 [<img src="assets/javascript.png" alt="js logo" width="50">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -11,7 +8,10 @@
 [<img src="assets/bubbleio.png" alt="bl logo" width="50">](https://manual.bubble.io) 
 
 ### Frameworks 💼
-[<img src="assets/react.png" alt="react logo" width="50">]([https://manual.bubble.io](https://es.reactjs.org/docs/getting-started.html)) 
+[<img src="assets/react.png" alt="react logo" width="50">](https://es.reactjs.org/docs/getting-started.html)
+
+### FRONT-END 🖼️
+[<img src="assets/boostrap.png" alt="boostrap logo" width="50">](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
 
 ### Tools ⚙️
 
