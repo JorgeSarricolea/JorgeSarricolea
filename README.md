@@ -10,6 +10,9 @@
 [<img src="assets/java.png" alt="ts logo" width="40">](https://www.java.com/es/)
 [<img src="assets/bubbleio.png" alt="bl logo" width="50">](https://manual.bubble.io) 
 
+### Frameworks 💼
+[<img src="assets/react.png" alt="react logo" width="50">]([https://manual.bubble.io](https://es.reactjs.org/docs/getting-started.html)) 
+
 ### Tools ⚙️
 
 [<img src="assets/git.png" alt="git logo" width="50">](https://git-scm.com/doc)
