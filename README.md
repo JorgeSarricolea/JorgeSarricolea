@@ -29,7 +29,7 @@ Finally, I have created a growing community on Discord called [Home | Projects](
 
 [<img src="assets/git.png" alt="git logo" width="30">](https://git-scm.com/doc)
 [<img src="assets/vscode.png" alt="vscode logo" width="30">](https://code.visualstudio.com/docs)
-[<img src="assets/figma.png" alt="figma logo" width="10">](https://www.figma.com/best-practices/guide-to-developer-handoff/components-styles-and-documentation/)
+[<img src="assets/figma.png" alt="figma logo" width="15">](https://www.figma.com/best-practices/guide-to-developer-handoff/components-styles-and-documentation/)
 [<img src="assets/illustrator.png" alt="illustrator logo" width="30">](https://www.adobe.com/mx/products/illustrator/campaign/pricing.html?gclid=Cj0KCQjwla-hBhD7ARIsAM9tQKsX11p67rnk2_kAbfcpU9W1qAG-lYSYNhHfyAszxEHitQ1y0omBMCoaAqumEALw_wcB&sdid=KQPQL&mv=search&ef_id=Cj0KCQjwla-hBhD7ARIsAM9tQKsX11p67rnk2_kAbfcpU9W1qAG-lYSYNhHfyAszxEHitQ1y0omBMCoaAqumEALw_wcB:G:s&s_kwcid=AL!3085!3!442303209264!e!!g!!illustrator!188198382!10039621902)
 [<img src="assets/photoshop.png" alt="photoshop logo" width="30">](https://www.adobe.com/mx/products/photoshop.html)
 
