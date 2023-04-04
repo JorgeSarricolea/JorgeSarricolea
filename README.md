@@ -1,6 +1,6 @@
-# Hi there, I'm [Jorge Sarricolea](https://jorgesarricolea.com)
+# Hi there, I'm [Jorge Sarricolea](https://jorgesarricolea.com) 👋
 
-I'm Jorge Sarricolea, I am a web developer, specialized in UI/UX design, I have 1 year of experience working with JavaScript. I've developed a responsive marketplace web app from scratch [(Jumwork)](https://jumwork.com) using Bubble.io technology. I'm a finance enthusiastic, so I create a personal finance app on Appsheet. I've experience working with Trello, Notion, Miro, and other apps. I like to learn quickly.
+I'm Jorge Sarricolea, I am a web developer, specialized in UI/UX design, I have 1 year of experience working with JavaScript. I've developed a responsive marketplace web app from scratch [Jumwork](https://jumwork.com) using Bubble.io technology. I'm a finance enthusiastic, so I create a personal finance app on Appsheet. I've experience working with Trello, Notion, Miro, and other apps. I like to learn quickly.
 
 I have a technology and finance community on Discord (spanish content), where I teach some of my courses and related content. If you're interested in joining my community [click here](https://discord.gg/ad5qhqy8)
 
