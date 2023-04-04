@@ -36,4 +36,4 @@ Finally, I have created a growing community on Discord called [Home | Projects](
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeSarricolea)](https://github.com/JorgeSarricolea/github-readme-stats)
 
-_#### To achieve real change, order, discipline, and consistency are required._
+#### _To achieve real change, order, discipline, and consistency are required._
