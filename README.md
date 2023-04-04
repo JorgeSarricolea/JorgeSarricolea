@@ -6,6 +6,9 @@ I am a Personal Finance and Technology enthusiast, so I have created a complete 
 
 Finally, I have created a growing community on Discord called [Home | Projects](https://discord.gg/ad5qhqy8), where you can find more information about the courses and news about these two topics that I discuss.
 
+![Profile views](https://gpvc.arturio.dev/username)
+
+
 ### Programming Languages 🖥️
 
 [<img src="assets/javascript.png" alt="js logo" width="30">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
