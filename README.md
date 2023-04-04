@@ -36,6 +36,4 @@ Finally, I have created a growing community on Discord called [Home | Projects](
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeSarricolea)](https://github.com/JorgeSarricolea/github-readme-stats)
 
-.custom-lang-stats {
-  background-color: #d3f3c3;
-}
+_#### To achieve real change, order, discipline, and consistency are required._
