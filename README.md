@@ -17,7 +17,7 @@ Finally, I have created a growing community on Discord called [Home | Projects](
 [<img src="assets/javascript.png" alt="js logo" width="33">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img src="assets/boostrap.png" alt="boostrap logo" width="30">](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
 [<img src="assets/react.png" alt="react logo" width="30">](https://es.reactjs.org/docs/getting-started.html)
-[<img src="assets/jest.png" alt="jest logo" width="35">]([https://www.java.com/es/](https://jestjs.io/docs/getting-started))
+[<img src="assets/jest.png" alt="jest logo" width="30">]([https://www.java.com/es/](https://jestjs.io/docs/getting-started))
 [<img src="assets/bubbleio.png" alt="bl logo" width="30">](https://manual.bubble.io) 
 
 ### Backend 🖥️
