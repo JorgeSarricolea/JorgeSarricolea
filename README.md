@@ -2,7 +2,7 @@
 
 I am a Web Developer specialized in UI/UX Design. My latest best work has been [Jumwork](https://jumwork.com), a digital responsive marketplace like Fiverr, where I used [Bubble.io](https://manual.bubble.io) technology and worked on the entire interface design and user experience, as well as the development of brand identity and project colors.
 
-I am a Personal Finance and Technology enthusiast, so I have created a complete template in Google Sheets to manage personal finances correctly, day by day, month by month, and year by year. I provide this template in my [Personal Finance Course](https://discordapp.com/channels/1084144643966517249/1088861350832394434/1088864286543204476) where I teach from scratch how to manage your money in the best way possible. Apart from this, I have another [Programming and Operating Systems Course](https://github.com/JorgeSarricolea/Programming-Course) where I teach programming from scratch in Java and Python.
+I am a Personal Finance and Technology enthusiast, so I have created a complete template in Google Sheets to manage personal finances correctly, day by day, month by month, and year by year. I provide this template in my [Personal Finance Course](https://jorgesarricolea.com/finance-course) where I teach from scratch how to manage your money in the best way possible. Apart from this, I have another [Programming and Operating Systems Course](https://jorgesarricolea.com/programming-course) where I teach programming from scratch in Java and Python.
 
 Finally, I have created a growing community on Discord called [Home | Projects](https://discord.gg/ad5qhqy8) where you can find more information about the courses and news about these two topics that I discuss.
 
