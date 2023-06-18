@@ -33,7 +33,7 @@ Do you want to know more about my services and courses? Go to this link: [https:
 
 [<img src="assets/figma.png" alt="figma logo" width="18">](https://www.figma.com/best-practices/guide-to-developer-handoff/components-styles-and-documentation/)
 [<img src="assets/illustrator.png" alt="illustrator logo" width="30">](https://www.adobe.com/mx/products/illustrator/campaign/pricing.html?gclid=Cj0KCQjwla-hBhD7ARIsAM9tQKsX11p67rnk2_kAbfcpU9W1qAG-lYSYNhHfyAszxEHitQ1y0omBMCoaAqumEALw_wcB&sdid=KQPQL&mv=search&ef_id=Cj0KCQjwla-hBhD7ARIsAM9tQKsX11p67rnk2_kAbfcpU9W1qAG-lYSYNhHfyAszxEHitQ1y0omBMCoaAqumEALw_wcB:G:s&s_kwcid=AL!3085!3!442303209264!e!!g!!illustrator!188198382!10039621902)
-[<img src="assets/photoshop.png" alt="photoshop logo" width="40">](https://www.adobe.com/mx/products/photoshop.html)
+[<img src="assets/photoshop.png" alt="photoshop logo" width="35">](https://www.adobe.com/mx/products/photoshop.html)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeSarricolea)](https://github.com/JorgeSarricolea/github-readme-stats)
