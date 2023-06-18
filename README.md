@@ -4,9 +4,7 @@ I am a Web Developer specialized in UI/UX Design. My latest best work has been [
 
 I am a Personal Finance and Technology enthusiast, so I have created a complete template in Google Sheets to manage personal finances correctly, day by day, month by month, and year by year. I provide this template in my [Personal Finance Course](https://jorgesarricolea.com/finance-course) where I teach from scratch how to manage your money in the best way possible. Apart from this, I have another [Programming and Operating Systems Course](https://jorgesarricolea.com/programming-course) where I teach programming from scratch in Java and Python.
 
-Finally, I have created a growing community on Discord called [Home | Projects](https://discord.gg/ad5qhqy8) where you can find more information about the courses and news about these two topics that I discuss.
-
-![Profile views](https://gpvc.arturio.dev/username)
+[Profile views](https://gpvc.arturio.dev/username)
 
 ## Technologies which I use:
 
