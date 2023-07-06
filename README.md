@@ -17,13 +17,13 @@ Do you want to know more about my services and courses? Go to this link: [https:
 [<img src="assets/boostrap.png" alt="boostrap logo" width="30">](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
 [<img src="assets/tailwindcss.png" alt="tailwindcss logo" width="30">](https://tailwindcss.com/docs/installation)
 [<img src="assets/react.png" alt="react logo" width="32">](https://es.reactjs.org/docs/getting-started.html)
+[<img src="assets/nextjs.png" alt="nextjs logo" width="32">](https://nextjs.org/docs)
 [<img src="assets/jest.png" alt="jest logo" width="30">](https://jestjs.io/docs/getting-started)
 [<img src="assets/bubbleio.png" alt="bl logo" width="30">](https://manual.bubble.io) 
 
 ### Backend 🖥️
 
 [<img src="assets/nodejs.png" alt="nodejs logo" width="30">](https://devdocs.io/node/)
-[<img src="assets/nextjs.png" alt="nextjs logo" width="32">](https://nextjs.org/docs)
 [<img src="assets/python.png" alt="python logo" width="40">](https://www.python.org/)
 [<img src="assets/java.png" alt="ts logo" width="20">](https://www.java.com/es/)
 
