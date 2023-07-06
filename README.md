@@ -12,7 +12,7 @@ Do you want to know more about my services and courses? Go to this link: [https:
 
 [<img src="assets/html.png" alt="html logo" width="30">](https://devdocs.io/html/)
 [<img src="assets/css.png" alt="css logo" width="31">](https://devdocs.io/css/)
-[<img src="assets/javascript.png" alt="js logo" width="33">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img src="assets/javascript.png" alt="js logo" width="31">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img src="assets/typescript.png" alt="typescript logo" width="31">](https://www.typescriptlang.org/docs/)
 [<img src="assets/boostrap.png" alt="boostrap logo" width="30">](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
 [<img src="assets/react.png" alt="react logo" width="32">](https://es.reactjs.org/docs/getting-started.html)
