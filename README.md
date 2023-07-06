@@ -23,7 +23,6 @@ Do you want to know more about my services and courses? Go to this link: [https:
 ### Backend 🖥️
 
 [<img src="assets/nodejs.png" alt="nodejs logo" width="30">](https://devdocs.io/node/)
-[<img src="assets/nextjs.png" alt="nextjs logo" width="33">](https://nextjs.org/docs)
 [<img src="assets/python.png" alt="python logo" width="40">](https://www.python.org/)
 [<img src="assets/java.png" alt="ts logo" width="20">](https://www.java.com/es/)
 
