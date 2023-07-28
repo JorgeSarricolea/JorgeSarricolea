@@ -1,10 +1,10 @@
 # Hi there, I'm [Jorge Sarricolea](https://jorgesarricolea.com) 👋
 
-I am a Frontend Developer specialized in UI/UX Design. My latest best work has been [Jumwork](https://jumwork.com), a digital responsive marketplace like Fiverr, where I used [Bubble.io](https://manual.bubble.io) technology and worked on the entire interface design and user experience, as well as the development of brand identity and project colors.
+I am a passionate Frontend Developer and UX/UI Designer with over 2 years of experience in the field. Throughout my career, I have worked on a variety of projects, both personal and team-based, which has allowed me to acquire a wide range of skills and creative approaches.
 
-I am a Personal Finance and Technology enthusiast, so I have created a complete template in Google Sheets to manage personal finances correctly, day by day, month by month, and year by year. I provide this template in my [Personal Finance Course](https://jorgesarricolea.com/finance-course) where I teach from scratch how to manage your money in the best way possible. Apart from this, I have another [Programming and Operating Systems Course](https://jorgesarricolea.com/programming-course) where I teach programming from scratch in Java and Python. 
+I believe that teamwork is essential to achieving success in any project. I firmly believe that by collaborating and sharing ideas, we can achieve exceptional results.
 
-Do you want to know more about my services and courses? Go to this link: [https://jorgesarricolea.com/services](https://jorgesarricolea.com/services)
+One of my most significant achievements has been the complete development of a marketplace similar to Fiverr, where I had the opportunity to program the site from scratch. [Jumwork](https://jumwork.com) was an exciting challenge, featuring a bidding system, notifications, and an integrated chat. During this project, I not only applied my Frontend Developer skills but also delved into Backend development, working with APIs such as Stripe and AirTable.
 
 ## Technologies which I use:
 
