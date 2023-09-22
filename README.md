@@ -27,6 +27,8 @@ One of my most significant achievements has been the complete development of a m
 [<img src="assets/nodejs.png" alt="nodejs logo" width="30">](https://devdocs.io/node/)
 [<img src="assets/python.png" alt="python logo" width="30">](https://www.python.org/)
 [<img src="assets/java.png" alt="ts logo" width="30">](https://www.java.com/es/)
+[<img src="assets/mysql.png" alt="ts logo" width="30">](https://dev.mysql.com/doc/)
+[<img src="assets/php.png" alt="ts logo" width="30">](https://www.php.net/docs.php)
 
 ### Development Tools ⚙️
 
