@@ -25,7 +25,6 @@ One of my most significant achievements has been the complete development of a m
 [<img src="assets/tailwindcss.png" alt="tailwindcss logo" width="30">](https://tailwindcss.com/docs/installation)
 [<img src="assets/react.png" alt="react logo" width="30">](https://es.reactjs.org/docs/getting-started.html)
 [<img src="assets/nextjs.png" alt="nextjs logo" width="30">](https://nextjs.org/docs)
-[<img src="assets/jest.png" alt="jest logo" width="30">](https://jestjs.io/docs/getting-started)
 [<img src="assets/bubbleio.png" alt="bl logo" width="30">](https://manual.bubble.io) 
 
 ### Backend and Database 🖥️
@@ -33,8 +32,9 @@ One of my most significant achievements has been the complete development of a m
 [<img src="assets/nodejs.png" alt="nodejs logo" width="30">](https://devdocs.io/node/)
 [<img src="assets/mysql.png" alt="ts logo" width="30">](https://dev.mysql.com/doc/)
 
-### Development Tools ⚙️
+### Development and Testing Tools ⚙️
 
+[<img src="assets/jest.png" alt="jest logo" width="30">](https://jestjs.io/docs/getting-started)
 [<img src="assets/vscode.png" alt="vscode logo" width="30">](https://code.visualstudio.com/docs)
 [<img src="assets/git.png" alt="git logo" width="30">](https://git-scm.com/doc)
 [<img src="assets/postman.png" alt="postman logo" width="30">](https://www.postman.com/api-documentation-tool/)
