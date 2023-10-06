@@ -11,8 +11,8 @@ One of my most significant achievements has been the complete development of a m
 ### Languajes 💡
 
 [<img src="assets/javascript.png" alt="js logo" width="30">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<img src="assets/python.png" alt="python logo" width="30">](https://www.python.org/)
 [<img src="assets/java.png" alt="ts logo" width="30">](https://www.java.com/es/)
+[<img src="assets/python.png" alt="python logo" width="30">](https://www.python.org/)
 [<img src="assets/php.png" alt="ts logo" width="30">](https://www.php.net/docs.php)
 
 ### Frontend 🖥️
