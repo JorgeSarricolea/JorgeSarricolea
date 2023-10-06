@@ -6,13 +6,19 @@ I believe that teamwork is essential to achieving success in any project. I firm
 
 One of my most significant achievements has been the complete development of a marketplace similar to Fiverr, where I had the opportunity to program the site from scratch. [Jumwork](https://jumwork.com) was an exciting challenge, featuring a bidding system, notifications, and an integrated chat. During this project, I not only applied my Frontend Developer skills but also delved into Backend development, working with APIs such as Stripe and AirTable.
 
-## Technologies which I use:
+## What I know:
+
+### Languajes 💡
+
+[<img src="assets/javascript.png" alt="js logo" width="30">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img src="assets/python.png" alt="python logo" width="30">](https://www.python.org/)
+[<img src="assets/java.png" alt="ts logo" width="30">](https://www.java.com/es/)
+[<img src="assets/php.png" alt="ts logo" width="30">](https://www.php.net/docs.php)
 
 ### Frontend 🖥️
 
 [<img src="assets/html.png" alt="html logo" width="30">](https://devdocs.io/html/)
 [<img src="assets/css.png" alt="css logo" width="30">](https://devdocs.io/css/)
-[<img src="assets/javascript.png" alt="js logo" width="30">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img src="assets/typescript.png" alt="typescript logo" width="30">](https://www.typescriptlang.org/docs/)
 [<img src="assets/jquery.png" alt="jquery logo" width="30">](https://api.jquery.com)
 [<img src="assets/boostrap.png" alt="boostrap logo" width="30">](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
@@ -22,13 +28,10 @@ One of my most significant achievements has been the complete development of a m
 [<img src="assets/jest.png" alt="jest logo" width="30">](https://jestjs.io/docs/getting-started)
 [<img src="assets/bubbleio.png" alt="bl logo" width="30">](https://manual.bubble.io) 
 
-### Backend 🖥️
+### Backend and Database 🖥️
 
 [<img src="assets/nodejs.png" alt="nodejs logo" width="30">](https://devdocs.io/node/)
-[<img src="assets/python.png" alt="python logo" width="30">](https://www.python.org/)
-[<img src="assets/java.png" alt="ts logo" width="30">](https://www.java.com/es/)
 [<img src="assets/mysql.png" alt="ts logo" width="30">](https://dev.mysql.com/doc/)
-[<img src="assets/php.png" alt="ts logo" width="30">](https://www.php.net/docs.php)
 
 ### Development Tools ⚙️
 
