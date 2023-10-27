@@ -1,5 +1,7 @@
 # Hi there, I'm [Jorge Sarricolea](https://jorgesarricolea.com) 👋
 
+#### _To achieve real change, order, discipline, and consistency are required._
+
 I am a passionate Frontend Developer and UX/UI Designer with over 2 years of experience in the field. Throughout my career, I have worked on a variety of projects, both personal and team-based, which has allowed me to acquire a wide range of skills and creative approaches.
 
 I believe that teamwork is essential to achieving success in any project. I firmly believe that by collaborating and sharing ideas, we can achieve exceptional results.
@@ -47,5 +49,3 @@ One of my most significant achievements has been the complete development of a m
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeSarricolea)](https://github.com/JorgeSarricolea/github-readme-stats)
-
-#### _To achieve real change, order, discipline, and consistency are required._
