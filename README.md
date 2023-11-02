@@ -8,18 +8,18 @@ My goal is to continue creating exceptional digital experiences in this exciting
 
 ## What I know:
 
-### Languajes 💡
+### Programming 💡
 
 [<img src="assets/javascript.png" alt="js logo" width="30">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<img src="assets/java.png" alt="ts logo" width="30">](https://www.java.com/es/)
+[<img src="assets/typescript.png" alt="typescript logo" width="30">](https://www.typescriptlang.org/docs/)
 [<img src="assets/python.png" alt="python logo" width="30">](https://www.python.org/)
+[<img src="assets/java.png" alt="ts logo" width="30">](https://www.java.com/es/)
 [<img src="assets/php.png" alt="ts logo" width="30">](https://www.php.net/docs.php)
 
 ### Frontend 🖥️
 
 [<img src="assets/html.png" alt="html logo" width="30">](https://devdocs.io/html/)
 [<img src="assets/css.png" alt="css logo" width="30">](https://devdocs.io/css/)
-[<img src="assets/typescript.png" alt="typescript logo" width="30">](https://www.typescriptlang.org/docs/)
 [<img src="assets/jquery.png" alt="jquery logo" width="30">](https://api.jquery.com)
 [<img src="assets/boostrap.png" alt="boostrap logo" width="30">](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
 [<img src="assets/tailwindcss.png" alt="tailwindcss logo" width="30">](https://tailwindcss.com/docs/installation)
