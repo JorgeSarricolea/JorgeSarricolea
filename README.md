@@ -23,7 +23,7 @@ My goal is to continue creating exceptional digital experiences in this exciting
 [<img src="assets/jquery-icon.png" alt="jquery logo" width="30">](https://api.jquery.com)
 [<img src="assets/boostrap-icon.png" alt="boostrap logo" width="30">](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
 [<img src="assets/tailwindcss-icon.png" alt="tailwindcss logo" width="30">](https://tailwindcss.com/docs/installation)
-[<img src="assets/react-icon.png" alt="react logo" width="30">](https://es.reactjs.org/docs/getting-started.html)
+[<img src="assets/reactjs-icon.png" alt="react logo" width="30">](https://es.reactjs.org/docs/getting-started.html)
 [<img src="assets/nextjs-icon.png" alt="nextjs logo" width="30">](https://nextjs.org/docs)
 [<img src="assets/bubbleio-icon.png" alt="bl logo" width="30">](https://manual.bubble.io) 
 
@@ -31,7 +31,7 @@ My goal is to continue creating exceptional digital experiences in this exciting
 
 [<img src="assets/nodejs-icon.png" alt="nodejs logo" width="30">](https://devdocs.io/node/)
 [<img src="assets/expressjs-icon.png" alt="ex logo" width="30">](https://expressjs.com/en/starter/installing.html)
-[<img src="assets/mysql-icon.png" alt="ts logo" width="30">](https://dev.mysql.com/doc/)
+[<img src="assets/mysql-icon.png" alt="mysql logo" width="30">](https://dev.mysql.com/doc/)
 
 ### Development and Testing Tools ⚙️
 
