@@ -30,7 +30,7 @@ My goal is to continue creating exceptional digital experiences in this exciting
 ### Backend and Database 🖥️
 
 [<img src="assets/nodejs-icon.png" alt="nodejs logo" width="30">](https://devdocs.io/node/)
-[<img src="assets/expressjs-icon.png" alt="ex logo" width="30">](https://expressjs.com/en/starter/installing.html)
+[<img src="assets/express-icon.png" alt="ex logo" width="30">](https://expressjs.com/en/starter/installing.html)
 [<img src="assets/mysql-icon.png" alt="mysql logo" width="30">](https://dev.mysql.com/doc/)
 
 ### Development and Testing Tools ⚙️
