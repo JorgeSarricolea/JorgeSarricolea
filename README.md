@@ -12,7 +12,7 @@ My goal is to continue creating exceptional digital experiences in this exciting
   <tr>
     <td colspan="2" align="center"><strong>Programming 💡</strong></td>
   </tr>
-  <td valign="top">
+  <td valign="top" colspan="2">
     <img src="assets/javascript-icon.png" alt="js logo" width="50">  
     <img src="assets/typescript-icon.png" alt="typescript logo" width="50">  
     <img src="assets/python-icon.png" alt="python logo" width="50">  
