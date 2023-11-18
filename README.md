@@ -50,6 +50,9 @@ My goal is to continue creating exceptional digital experiences in this exciting
 
 <table>
   <tr>
+    <td colspan="2" align="center"><strong>Stats</strong></td>
+  </tr>
+  <tr>
     <td valign="top">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeSarricolea&theme=dark&layout=compact" alt="Top Langs" />
     </td>
@@ -58,5 +61,6 @@ My goal is to continue creating exceptional digital experiences in this exciting
     </td>
   </tr>
 </table>
+
 
 
