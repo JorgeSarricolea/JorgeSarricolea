@@ -8,13 +8,18 @@ My goal is to continue creating exceptional digital experiences in this exciting
 
 ## What I know:
 
-### Programming 💡
-
-[<img src="assets/javascript-icon.png" alt="js logo" width="30">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<img src="assets/typescript-icon.png" alt="typescript logo" width="30">](https://www.typescriptlang.org/docs/)
-[<img src="assets/python-icon.png" alt="python logo" width="30">](https://www.python.org/)
-[<img src="assets/java-icon.png" alt="ts logo" width="30">](https://www.java.com/es/)
-[<img src="assets/php-icon.png" alt="ts logo" width="30">](https://www.php.net/docs.php)
+<table>
+  <tr>
+    <td colspan="2" align="center"><strong>Programming 💡</strong></td>
+  </tr>
+  <td valign="top">
+      [<img src="assets/javascript-icon.png" alt="js logo" width="30">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+      [<img src="assets/typescript-icon.png" alt="typescript logo" width="30">](https://www.typescriptlang.org/docs/)
+      [<img src="assets/python-icon.png" alt="python logo" width="30">](https://www.python.org/)
+      [<img src="assets/java-icon.png" alt="ts logo" width="30">](https://www.java.com/es/)
+      [<img src="assets/php-icon.png" alt="ts logo" width="30">](https://www.php.net/docs.php)<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeSarricolea&theme=dark&layout=compact" alt="Top Langs" />
+    </td>
+</table>
 
 ### Frontend 🖥️
 
@@ -46,7 +51,7 @@ My goal is to continue creating exceptional digital experiences in this exciting
 [<img src="assets/illustrator-icon.png" alt="illustrator logo" width="30">](https://www.adobe.com/mx/products/illustrator/campaign/pricing.html?gclid=Cj0KCQjwla-hBhD7ARIsAM9tQKsX11p67rnk2_kAbfcpU9W1qAG-lYSYNhHfyAszxEHitQ1y0omBMCoaAqumEALw_wcB&sdid=KQPQL&mv=search&ef_id=Cj0KCQjwla-hBhD7ARIsAM9tQKsX11p67rnk2_kAbfcpU9W1qAG-lYSYNhHfyAszxEHitQ1y0omBMCoaAqumEALw_wcB:G:s&s_kwcid=AL!3085!3!442303209264!e!!g!!illustrator!188198382!10039621902)
 [<img src="assets/photoshop-icon.png" alt="photoshop logo" width="30">](https://www.adobe.com/mx/products/photoshop.html)
 
-<table style="border: none;">
+<table>
   <tr>
     <td colspan="2" align="center"><strong>Stats</strong></td>
   </tr>
