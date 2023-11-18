@@ -25,28 +25,30 @@ My goal is to continue creating exceptional digital experiences in this exciting
   <tr>
     <td align="center"><strong>Frontend 🎨</strong></td>
   </tr>
-  <td valign="top">
-    <img src="assets/html-icon.png" alt="html logo" width="50">
-    <img src="assets/css-icon.png" alt="css logo" width="50">
-    <img src="assets/jquery-icon.png" alt="jquery logo" width="50">
-    <img src="assets/boostrap-icon.png" alt="boostrap logo" width="50">
-    <img src="assets/tailwindcss-icon.png" alt="tailwindcss logo" width="50">
-    <img src="assets/reactjs-icon.png" alt="react logo" width="50">
-    <img src="assets/nextjs-icon.png" alt="nextjs logo" width="50">
-    <img src="assets/bubbleio-icon.png" alt="bl logo" width="50">
+  <tr>
+    <td valign="top">
+      <img src="assets/html-icon.png" alt="html logo" width="50">
+      <img src="assets/css-icon.png" alt="css logo" width="50">
+      <img src="assets/jquery-icon.png" alt="jquery logo" width="50">
+      <img src="assets/boostrap-icon.png" alt="boostrap logo" width="50">
+      <img src="assets/tailwindcss-icon.png" alt="tailwindcss logo" width="50">
+      <img src="assets/reactjs-icon.png" alt="react logo" width="50">
+      <img src="assets/nextjs-icon.png" alt="nextjs logo" width="50">
+      <img src="assets/bubbleio-icon.png" alt="bl logo" width="50">
     </td>
+  </tr>
   <tr>
     <td align="center"><strong>Backend ⚙️</strong></td>
   </tr>
-  <td valign="top">
-    <img src="assets/nodejs-icon.png" alt="nodejs logo" width="50">
-    <img src="assets/express-icon.png" alt="ex logo" width="50">
-    <img src="assets/mysql-icon.png" alt="mysql logo" width="50">
-  </td>
+  <tr>
+    <td valign="top">
+      <img src="assets/nodejs-icon.png" alt="nodejs logo" width="50">
+      <img src="assets/express-icon.png" alt="ex logo" width="50">
+      <img src="assets/mysql-icon.png" alt="mysql logo" width="50">
+    </td>
+  </tr>
 </table>
 
-<table>
-</table>
 
 <table>
   <tr>
