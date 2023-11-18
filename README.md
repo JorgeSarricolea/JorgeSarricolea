@@ -35,6 +35,9 @@ My goal is to continue creating exceptional digital experiences in this exciting
     <img src="assets/nextjs-icon.png" alt="nextjs logo" width="50">
     <img src="assets/bubbleio-icon.png" alt="bl logo" width="50">
     </td>
+  <tr>
+    <td align="center"><strong>Backend ⚙️</strong></td>
+  </tr>
   <td valign="top">
     <img src="assets/nodejs-icon.png" alt="nodejs logo" width="50">
     <img src="assets/express-icon.png" alt="ex logo" width="50">
@@ -43,9 +46,6 @@ My goal is to continue creating exceptional digital experiences in this exciting
 </table>
 
 <table>
-  <tr>
-    <td align="center"><strong>Backend ⚙️</strong></td>
-  </tr>
 </table>
 
 <table>
