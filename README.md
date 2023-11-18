@@ -1,3 +1,12 @@
+<style>
+  table {
+    border-collapse: collapse;
+  }
+  td {
+    border: none;
+  }
+</style>
+
 # Hi there, I'm [Jorge Sarricolea](https://jorgesarricolea.com) 👋
 
 More than two years ago, I embarked on my journey in web development, creating attractive and functional web applications.
