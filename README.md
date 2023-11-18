@@ -1,12 +1,3 @@
-<style>
-  table {
-    border-collapse: collapse;
-  }
-  td {
-    border: none;
-  }
-</style>
-
 # Hi there, I'm [Jorge Sarricolea](https://jorgesarricolea.com) 👋
 
 More than two years ago, I embarked on my journey in web development, creating attractive and functional web applications.
@@ -56,13 +47,8 @@ My goal is to continue creating exceptional digital experiences in this exciting
 [<img src="assets/photoshop-icon.png" alt="photoshop logo" width="30">](https://www.adobe.com/mx/products/photoshop.html)
 
 
-<table>
-  <tr>
-    <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeSarricolea&theme=dark&layout=compact" alt="Top Langs" />
-    </td>
-    <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/?username=JorgeSarricolea&theme=dark" alt="GitHub Stats" />
-    </td>
-  </tr>
-</table>
+| <!-- Espacio en blanco para ocultar bordes -->
+| <!-- Espacio en blanco para ocultar bordes |
+|---|---|
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeSarricolea&theme=dark&layout=compact) | ![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=JorgeSarricolea&theme=dark) |
+
