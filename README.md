@@ -48,3 +48,6 @@ My goal is to continue creating exceptional digital experiences in this exciting
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeSarricolea&theme=dark&layout=compact)](https://github.com/JorgeSarricolea/github-readme-stats)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=JorgeSarricolea&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
