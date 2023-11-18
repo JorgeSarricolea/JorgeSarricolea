@@ -13,10 +13,10 @@ My goal is to continue creating exceptional digital experiences in this exciting
     <td colspan="2" align="center"><strong>Programming 💡</strong></td>
   </tr>
   <td valign="top">
-      <a href=href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="assets/javascript-icon.png" alt="js logo" width="50"></a>
-      <img src="assets/typescript-icon.png" alt="typescript logo" width="50">
-      <img src="assets/python-icon.png" alt="python logo" width="50">
-      <img src="assets/java-icon.png" alt="ts logo" width="50">
+      <img src="assets/javascript-icon.png" alt="js logo" width="50">  
+      <img src="assets/typescript-icon.png" alt="typescript logo" width="50">  
+      <img src="assets/python-icon.png" alt="python logo" width="50">  
+      <img src="assets/java-icon.png" alt="ts logo" width="50">  
       <img src="assets/php-icon.png" alt="ts logo" width="50">
     </td>
 </table>
