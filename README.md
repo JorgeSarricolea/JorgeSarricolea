@@ -21,16 +21,25 @@ My goal is to continue creating exceptional digital experiences in this exciting
     </td>
 </table>
 
+<table>
+  <tr>
+    <td colspan="2" align="center"><strong>Frontend 🎨</strong></td>
+  </tr>
+  <td valign="top">
+      <img src="assets/html-icon.png" alt="html logo" width="50">
+      <img src="assets/css-icon.png" alt="css logo" width="50">
+      <img src="assets/jquery-icon.png" alt="jquery logo" width="50">
+      <img src="assets/boostrap-icon.png" alt="boostrap logo" width="50">
+      <img src="assets/tailwindcss-icon.png" alt="tailwindcss logo" width="50">
+      <img src="assets/reactjs-icon.png" alt="react logo" width="50">
+      <img src="assets/nextjs-icon.png" alt="nextjs logo" width="50">
+      <img src="assets/bubbleio-icon.png" alt="bl logo" width="50">
+    </td>
+</table>
+
 ### Frontend 🖥️
 
-[<img src="assets/html-icon.png" alt="html logo" width="30">](https://devdocs.io/html/)
-[<img src="assets/css-icon.png" alt="css logo" width="30">](https://devdocs.io/css/)
-[<img src="assets/jquery-icon.png" alt="jquery logo" width="30">](https://api.jquery.com)
-[<img src="assets/boostrap-icon.png" alt="boostrap logo" width="30">](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
-[<img src="assets/tailwindcss-icon.png" alt="tailwindcss logo" width="30">](https://tailwindcss.com/docs/installation)
-[<img src="assets/reactjs-icon.png" alt="react logo" width="30">](https://es.reactjs.org/docs/getting-started.html)
-[<img src="assets/nextjs-icon.png" alt="nextjs logo" width="30">](https://nextjs.org/docs)
-[<img src="assets/bubbleio-icon.png" alt="bl logo" width="30">](https://manual.bubble.io) 
+
 
 ### Backend and Database 🖥️
 
