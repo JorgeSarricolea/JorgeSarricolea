@@ -49,26 +49,24 @@ My goal is to continue creating exceptional digital experiences in this exciting
 
 <table>
   <tr>
-    <td align="center"><strong>Development and Testing Tools  ⚙️</strong></td>
+    <td align="center" style="width: 50%;"><strong>Development and Testing Tools ⚙️</strong></td>
+    <td align="center" style="width: 50%;"><strong>Design Tools 🎨</strong></td>
   </tr>
-  <td valign="top">
-    <img src="assets/jest-icon.png" alt="jest logo" width="50">
-    <img src="assets/vscode-icon.png" alt="vscode logo" width="50">
-    <img src="assets/git-icon.png" alt="git logo" width="50">
-    <img src="assets/postman-icon.png" alt="postman logo" width="50">
+  <tr>
+    <td valign="top" style="width: 50%;">
+      <img src="assets/jest-icon.png" alt="jest logo" width="50">
+      <img src="assets/vscode-icon.png" alt="vscode logo" width="50">
+      <img src="assets/git-icon.png" alt="git logo" width="50">
+      <img src="assets/postman-icon.png" alt="postman logo" width="50">
     </td>
+    <td valign="top" style="width: 50%;">
+      <img src="assets/figma-icon.png" alt="figma logo" width="50">
+      <img src="assets/illustrator-icon.png" alt="illustrator logo" width="50">
+      <img src="assets/photoshop-icon.png" alt="photoshop logo" width="50">
+    </td>
+  </tr>
 </table>
 
-<table>
-  <tr>
-    <td align="center"><strong>Design Tools 🎨</strong></td>
-  </tr>
-  <td valign="top">
-    <img src="assets/figma-icon.png" alt="figma logo" width="50">
-    <img src="assets/illustrator-icon.png" alt="illustrator logo" width="50">
-    <img src="assets/photoshop-icon.png" alt="photoshop logo" width="50">
-    </td>
-</table>
 
 <table>
   <tr>
