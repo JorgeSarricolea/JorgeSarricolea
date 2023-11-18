@@ -46,5 +46,6 @@ My goal is to continue creating exceptional digital experiences in this exciting
 [<img src="assets/illustrator-icon.png" alt="illustrator logo" width="30">](https://www.adobe.com/mx/products/illustrator/campaign/pricing.html?gclid=Cj0KCQjwla-hBhD7ARIsAM9tQKsX11p67rnk2_kAbfcpU9W1qAG-lYSYNhHfyAszxEHitQ1y0omBMCoaAqumEALw_wcB&sdid=KQPQL&mv=search&ef_id=Cj0KCQjwla-hBhD7ARIsAM9tQKsX11p67rnk2_kAbfcpU9W1qAG-lYSYNhHfyAszxEHitQ1y0omBMCoaAqumEALw_wcB:G:s&s_kwcid=AL!3085!3!442303209264!e!!g!!illustrator!188198382!10039621902)
 [<img src="assets/photoshop-icon.png" alt="photoshop logo" width="30">](https://www.adobe.com/mx/products/photoshop.html)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeSarricolea&theme=dark&layout=compact) ![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=JorgeSarricolea&theme=dark)
+### Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeSarricolea&theme=dark&layout=compact)   ![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=JorgeSarricolea&theme=dark)
 
