@@ -13,11 +13,11 @@ My goal is to continue creating exceptional digital experiences in this exciting
     <td colspan="2" align="center"><strong>Programming 💡</strong></td>
   </tr>
   <td valign="top">
-      <img src="assets/javascript-icon.png" alt="js logo" width="50">  
-      <img src="assets/typescript-icon.png" alt="typescript logo" width="50">  
-      <img src="assets/python-icon.png" alt="python logo" width="50">  
-      <img src="assets/java-icon.png" alt="ts logo" width="50">  
-      <img src="assets/php-icon.png" alt="ts logo" width="50">
+    <img src="assets/javascript-icon.png" alt="js logo" width="50">  
+    <img src="assets/typescript-icon.png" alt="typescript logo" width="50">  
+    <img src="assets/python-icon.png" alt="python logo" width="50">  
+    <img src="assets/java-icon.png" alt="ts logo" width="50">  
+    <img src="assets/php-icon.png" alt="ts logo" width="50">
     </td>
 </table>
 
@@ -26,26 +26,27 @@ My goal is to continue creating exceptional digital experiences in this exciting
     <td colspan="2" align="center"><strong>Frontend 🎨</strong></td>
   </tr>
   <td valign="top">
-      <img src="assets/html-icon.png" alt="html logo" width="50">
-      <img src="assets/css-icon.png" alt="css logo" width="50">
-      <img src="assets/jquery-icon.png" alt="jquery logo" width="50">
-      <img src="assets/boostrap-icon.png" alt="boostrap logo" width="50">
-      <img src="assets/tailwindcss-icon.png" alt="tailwindcss logo" width="50">
-      <img src="assets/reactjs-icon.png" alt="react logo" width="50">
-      <img src="assets/nextjs-icon.png" alt="nextjs logo" width="50">
-      <img src="assets/bubbleio-icon.png" alt="bl logo" width="50">
+    <img src="assets/html-icon.png" alt="html logo" width="50">
+    <img src="assets/css-icon.png" alt="css logo" width="50">
+    <img src="assets/jquery-icon.png" alt="jquery logo" width="50">
+    <img src="assets/boostrap-icon.png" alt="boostrap logo" width="50">
+    <img src="assets/tailwindcss-icon.png" alt="tailwindcss logo" width="50">
+    <img src="assets/reactjs-icon.png" alt="react logo" width="50">
+    <img src="assets/nextjs-icon.png" alt="nextjs logo" width="50">
+    <img src="assets/bubbleio-icon.png" alt="bl logo" width="50">
     </td>
 </table>
 
-### Frontend 🖥️
-
-
-
-### Backend and Database 🖥️
-
-[<img src="assets/nodejs-icon.png" alt="nodejs logo" width="30">](https://devdocs.io/node/)
-[<img src="assets/express-icon.png" alt="ex logo" width="30">](https://expressjs.com/en/starter/installing.html)
-[<img src="assets/mysql-icon.png" alt="mysql logo" width="30">](https://dev.mysql.com/doc/)
+<table>
+  <tr>
+    <td colspan="2" align="center"><strong>Backend ⚙️</strong></td>
+  </tr>
+  <td valign="top">
+    <img src="assets/nodejs-icon.png" alt="nodejs logo" width="50">
+    <img src="assets/express-icon.png" alt="ex logo" width="50">
+    <img src="assets/mysql-icon.png" alt="mysql logo" width="50">
+    </td>
+</table>
 
 ### Development and Testing Tools ⚙️
 
