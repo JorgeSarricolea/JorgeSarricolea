@@ -47,14 +47,6 @@ My goal is to continue creating exceptional digital experiences in this exciting
 [<img src="assets/photoshop-icon.png" alt="photoshop logo" width="30">](https://www.adobe.com/mx/products/photoshop.html)
 
 ### Stats
-<style>
-  table {
-    border-collapse: collapse;
-  }
-  td {
-    border: none;
-  }
-</style>
 
 <table>
   <tr>
