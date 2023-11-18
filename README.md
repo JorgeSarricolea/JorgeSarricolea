@@ -46,9 +46,7 @@ My goal is to continue creating exceptional digital experiences in this exciting
 [<img src="assets/illustrator-icon.png" alt="illustrator logo" width="30">](https://www.adobe.com/mx/products/illustrator/campaign/pricing.html?gclid=Cj0KCQjwla-hBhD7ARIsAM9tQKsX11p67rnk2_kAbfcpU9W1qAG-lYSYNhHfyAszxEHitQ1y0omBMCoaAqumEALw_wcB&sdid=KQPQL&mv=search&ef_id=Cj0KCQjwla-hBhD7ARIsAM9tQKsX11p67rnk2_kAbfcpU9W1qAG-lYSYNhHfyAszxEHitQ1y0omBMCoaAqumEALw_wcB:G:s&s_kwcid=AL!3085!3!442303209264!e!!g!!illustrator!188198382!10039621902)
 [<img src="assets/photoshop-icon.png" alt="photoshop logo" width="30">](https://www.adobe.com/mx/products/photoshop.html)
 
-### Stats
-
-<table>
+<table style="border: none;">
   <tr>
     <td colspan="2" align="center"><strong>Stats</strong></td>
   </tr>
@@ -61,6 +59,7 @@ My goal is to continue creating exceptional digital experiences in this exciting
     </td>
   </tr>
 </table>
+
 
 
 
