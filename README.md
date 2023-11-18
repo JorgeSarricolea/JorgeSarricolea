@@ -47,4 +47,4 @@ My goal is to continue creating exceptional digital experiences in this exciting
 [<img src="assets/photoshop-icon.png" alt="photoshop logo" width="30">](https://www.adobe.com/mx/products/photoshop.html)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeSarricolea&theme=dark)](https://github.com/JorgeSarricolea/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeSarricolea&theme=dark&layout=compact)](https://github.com/JorgeSarricolea/github-readme-stats)
