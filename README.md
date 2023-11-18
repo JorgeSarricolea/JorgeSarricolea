@@ -45,8 +45,6 @@ My goal is to continue creating exceptional digital experiences in this exciting
   </tr>
 </table>
 
-
-
 <table>
   <tr>
     <td align="center" style="width: 50%;"><strong>Development and Testing Tools ⚙️</strong></td>
@@ -67,10 +65,9 @@ My goal is to continue creating exceptional digital experiences in this exciting
   </tr>
 </table>
 
-
 <table>
   <tr>
-    <td colspan="2" align="center"><strong>Stats</strong></td>
+    <td colspan="2" align="center"><strong>Stats 📈</strong></td>
   </tr>
   <tr>
     <td valign="top">
