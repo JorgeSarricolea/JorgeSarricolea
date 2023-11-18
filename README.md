@@ -17,7 +17,7 @@ My goal is to continue creating exceptional digital experiences in this exciting
       [<img src="assets/typescript-icon.png" alt="typescript logo" width="30">](https://www.typescriptlang.org/docs/)
       [<img src="assets/python-icon.png" alt="python logo" width="30">](https://www.python.org/)
       [<img src="assets/java-icon.png" alt="ts logo" width="30">](https://www.java.com/es/)
-      [<img src="assets/php-icon.png" alt="ts logo" width="30">](https://www.php.net/docs.php)<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeSarricolea&theme=dark&layout=compact" alt="Top Langs" />
+      [<img src="assets/php-icon.png" alt="ts logo" width="30">](https://www.php.net/docs.php)
     </td>
 </table>
 
