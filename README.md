@@ -13,11 +13,11 @@ My goal is to continue creating exceptional digital experiences in this exciting
     <td colspan="2" align="center"><strong>Programming 💡</strong></td>
   </tr>
   <td valign="top">
-      [<img src="assets/javascript-icon.png" alt="js logo" width="30">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-      [<img src="assets/typescript-icon.png" alt="typescript logo" width="30">](https://www.typescriptlang.org/docs/)
-      [<img src="assets/python-icon.png" alt="python logo" width="30">](https://www.python.org/)
-      [<img src="assets/java-icon.png" alt="ts logo" width="30">](https://www.java.com/es/)
-      [<img src="assets/php-icon.png" alt="ts logo" width="30">](https://www.php.net/docs.php)
+      <img href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" src="assets/javascript-icon.png" alt="js logo" width="30">
+      <img src="assets/typescript-icon.png" alt="typescript logo" width="30">(https://www.typescriptlang.org/docs/)
+      <img src="assets/python-icon.png" alt="python logo" width="30">(https://www.python.org/)
+      <img src="assets/java-icon.png" alt="ts logo" width="30">(https://www.java.com/es/)
+      <img src="assets/php-icon.png" alt="ts logo" width="30">(https://www.php.net/docs.php)
     </td>
 </table>
 
