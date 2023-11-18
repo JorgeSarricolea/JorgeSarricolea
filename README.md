@@ -10,9 +10,9 @@ My goal is to continue creating exceptional digital experiences in this exciting
 
 <table>
   <tr>
-    <td colspan="2" align="center"><strong>Programming 💡</strong></td>
+    <td align="center"><strong>Programming 💡</strong></td>
   </tr>
-  <td valign="top" colspan="2">
+  <td valign="top">
     <img src="assets/javascript-icon.png" alt="js logo" width="50">  
     <img src="assets/typescript-icon.png" alt="typescript logo" width="50">  
     <img src="assets/python-icon.png" alt="python logo" width="50">  
@@ -23,7 +23,7 @@ My goal is to continue creating exceptional digital experiences in this exciting
 
 <table>
   <tr>
-    <td colspan="2" align="center"><strong>Frontend 🎨</strong></td>
+    <td align="center"><strong>Frontend 🎨</strong></td>
   </tr>
   <td valign="top">
     <img src="assets/html-icon.png" alt="html logo" width="50">
@@ -39,7 +39,7 @@ My goal is to continue creating exceptional digital experiences in this exciting
 
 <table>
   <tr>
-    <td colspan="2" align="center"><strong>Backend ⚙️</strong></td>
+    <td align="center"><strong>Backend ⚙️</strong></td>
   </tr>
   <td valign="top">
     <img src="assets/nodejs-icon.png" alt="nodejs logo" width="50">
@@ -48,18 +48,28 @@ My goal is to continue creating exceptional digital experiences in this exciting
     </td>
 </table>
 
-### Development and Testing Tools ⚙️
+<table>
+  <tr>
+    <td align="center"><strong>Development and Testing Tools  ⚙️</strong></td>
+  </tr>
+  <td valign="top">
+    <img src="assets/jest-icon.png" alt="jest logo" width="50">
+    <img src="assets/vscode-icon.png" alt="vscode logo" width="50">
+    <img src="assets/git-icon.png" alt="git logo" width="50">
+    <img src="assets/postman-icon.png" alt="postman logo" width="50">
+    </td>
+</table>
 
-[<img src="assets/jest-icon.png" alt="jest logo" width="30">](https://jestjs.io/docs/getting-started)
-[<img src="assets/vscode-icon.png" alt="vscode logo" width="30">](https://code.visualstudio.com/docs)
-[<img src="assets/git-icon.png" alt="git logo" width="30">](https://git-scm.com/doc)
-[<img src="assets/postman-icon.png" alt="postman logo" width="30">](https://www.postman.com/api-documentation-tool/)
-
-### Design Tools 🎨
-
-[<img src="assets/figma-icon.png" alt="figma logo" width="30">](https://www.figma.com/best-practices/guide-to-developer-handoff/components-styles-and-documentation/)
-[<img src="assets/illustrator-icon.png" alt="illustrator logo" width="30">](https://www.adobe.com/mx/products/illustrator/campaign/pricing.html?gclid=Cj0KCQjwla-hBhD7ARIsAM9tQKsX11p67rnk2_kAbfcpU9W1qAG-lYSYNhHfyAszxEHitQ1y0omBMCoaAqumEALw_wcB&sdid=KQPQL&mv=search&ef_id=Cj0KCQjwla-hBhD7ARIsAM9tQKsX11p67rnk2_kAbfcpU9W1qAG-lYSYNhHfyAszxEHitQ1y0omBMCoaAqumEALw_wcB:G:s&s_kwcid=AL!3085!3!442303209264!e!!g!!illustrator!188198382!10039621902)
-[<img src="assets/photoshop-icon.png" alt="photoshop logo" width="30">](https://www.adobe.com/mx/products/photoshop.html)
+<table>
+  <tr>
+    <td align="center"><strong>Design Tools 🎨</strong></td>
+  </tr>
+  <td valign="top">
+    <img src="assets/figma-icon.png" alt="figma logo" width="50">
+    <img src="assets/illustrator-icon.png" alt="illustrator logo" width="50">
+    <img src="assets/photoshop-icon.png" alt="photoshop logo" width="50">
+    </td>
+</table>
 
 <table>
   <tr>
