@@ -61,6 +61,7 @@ My goal is to continue creating exceptional digital experiences in this exciting
       <img src="assets/figma-icon.png" alt="figma logo" width="50">
       <img src="assets/illustrator-icon.png" alt="illustrator logo" width="50">
       <img src="assets/photoshop-icon.png" alt="photoshop logo" width="50">
+      <img src="assets/premiere-pro-icon.png" alt="premiere-pro logo" width="50">
     </td>
   </tr>
 </table>
