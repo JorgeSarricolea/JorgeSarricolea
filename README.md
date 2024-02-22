@@ -28,6 +28,7 @@ My goal is to continue creating exceptional digital experiences in this exciting
   </tr>
   <tr>
     <td valign="top">
+      <img src="assets/astro-icon.png" alt="html logo" width="50">
       <img src="assets/html-icon.png" alt="html logo" width="50">
       <img src="assets/css-icon.png" alt="css logo" width="50">
       <img src="assets/jquery-icon.png" alt="jquery logo" width="50">
