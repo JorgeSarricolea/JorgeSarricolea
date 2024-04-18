@@ -10,7 +10,7 @@ My goal is to continue creating exceptional digital experiences in this exciting
 
 <table>
   <tr>
-    <td align="center"><strong>Programming 💡</strong></td>
+    <td align="center"><strong>Languages 💡</strong></td>
   </tr>
   <td valign="top">
     <img src="assets/javascript-icon.png" alt="js logo" width="50">  
@@ -23,8 +23,8 @@ My goal is to continue creating exceptional digital experiences in this exciting
 
 <table>
   <tr>
-    <td align="center"><strong>Frontend 🎨</strong></td>
-    <td align="center"><strong>Backend ⚙️</strong></td>
+    <td align="center"><strong>Front-End 🎨</strong></td>
+    <td align="center"><strong>Back-End ⚙️</strong></td>
   </tr>
   <tr>
     <td valign="top">
