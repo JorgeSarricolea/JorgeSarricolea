@@ -60,6 +60,9 @@ My goal is to continue creating exceptional digital experiences in this exciting
       <img src="assets/nextjs-icon.png" alt="nextjs logo" width="50">
       <img src="assets/bubbleio-icon.png" alt="bl logo" width="50">
     </td>
+    <td valign="top">
+      <img src="assets/postgresql-icon.png" alt="aws logo" width="50">
+    </td>
   </tr>
 </table>
 
