@@ -6,7 +6,7 @@ My focus is on merging technical skills with a keen eye for design, which drives
 
 My goal is to continue creating exceptional digital experiences in this exciting and ever-evolving field.
 
-## My Stack:
+## My stack:
 
 <table>
   <tr>
