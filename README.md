@@ -12,6 +12,7 @@ My goal is to continue creating exceptional digital experiences in this exciting
   <tr>
     <td align="center"><strong>Front-End 🎨</strong></td>
     <td align="center"><strong>Back-End ⚙️</strong></td>
+    <td align="center"><strong>Cloud 🌥️</strong></td>
   </tr>
   <tr>
     <td valign="top">
@@ -23,6 +24,9 @@ My goal is to continue creating exceptional digital experiences in this exciting
       <img src="assets/nodejs-icon.png" alt="nodejs logo" width="50">
       <img src="assets/express-icon.png" alt="ex logo" width="50">
       <img src="assets/mysql-icon.png" alt="mysql logo" width="50">
+    </td>
+    <td valign="top">
+      <img src="assets/aws-icon.png" alt="aws logo" width="50">
     </td>
   </tr>
 </table>
