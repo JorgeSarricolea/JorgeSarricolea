@@ -27,6 +27,8 @@ My goal is to continue creating exceptional digital experiences in this exciting
   </tr>
 </table>
 
+## More skills:
+
 <table>
   <tr>
     <td align="center"><strong>Languages 💡</strong></td>
