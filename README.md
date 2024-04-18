@@ -31,10 +31,10 @@ My goal is to continue creating exceptional digital experiences in this exciting
       <img src="assets/astro-icon.png" alt="astro logo" width="50">
       <img src="assets/html-icon.png" alt="html logo" width="50">
       <img src="assets/css-icon.png" alt="css logo" width="50">
-      <img src="assets/jquery-icon.png" alt="jquery logo" width="50">
-      <img src="assets/boostrap-icon.png" alt="boostrap logo" width="50">
       <img src="assets/tailwindcss-icon.png" alt="tailwindcss logo" width="50">
       <img src="assets/reactjs-icon.png" alt="react logo" width="50">
+      <img src="assets/jquery-icon.png" alt="jquery logo" width="50">
+      <img src="assets/boostrap-icon.png" alt="boostrap logo" width="50">
       <img src="assets/nextjs-icon.png" alt="nextjs logo" width="50">
       <img src="assets/bubbleio-icon.png" alt="bl logo" width="50">
     </td>
