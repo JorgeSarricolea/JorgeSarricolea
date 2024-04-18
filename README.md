@@ -10,11 +10,15 @@ My goal is to continue creating exceptional digital experiences in this exciting
 
 <table>
   <tr>
+    <td align="center"><strong>Language 🌟</strong></td>
     <td align="center"><strong>Front-End 🎨</strong></td>
     <td align="center"><strong>Back-End ⚙️</strong></td>
-    <td align="center"><strong>Cloud 🌥️</strong></td>
+    <td align="center"><strong>Cloud ☁️</strong></td>
   </tr>
   <tr>
+    <td valign="top">
+      <img src="assets/javascript-icon.png" alt="js logo" width="50">  
+    </td>
     <td valign="top">
       <img src="assets/reactjs-icon.png" alt="react logo" width="50">
       <img src="assets/astro-icon.png" alt="astro logo" width="50">
@@ -38,7 +42,6 @@ My goal is to continue creating exceptional digital experiences in this exciting
     <td align="center"><strong>Languages 💡</strong></td>
   </tr>
   <td valign="top">
-    <img src="assets/javascript-icon.png" alt="js logo" width="50">  
     <img src="assets/typescript-icon.png" alt="typescript logo" width="50">  
     <img src="assets/python-icon.png" alt="python logo" width="50">  
     <img src="assets/java-icon.png" alt="ts logo" width="50">  
