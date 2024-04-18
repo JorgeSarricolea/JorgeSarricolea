@@ -18,16 +18,8 @@ My goal is to continue creating exceptional digital experiences in this exciting
       <img src="assets/reactjs-icon.png" alt="react logo" width="50">
       <img src="assets/astro-icon.png" alt="astro logo" width="50">
       <img src="assets/tailwindcss-icon.png" alt="tailwindcss logo" width="50">
-      <img src="assets/nodejs-icon.png" alt="nodejs logo" width="50">
-      <img src="assets/express-icon.png" alt="ex logo" width="50">
-      <img src="assets/mysql-icon.png" alt="mysql logo" width="50">
     </td>
-  </tr>
-  <tr>
     <td valign="top">
-      <img src="assets/reactjs-icon.png" alt="react logo" width="50">
-      <img src="assets/astro-icon.png" alt="astro logo" width="50">
-      <img src="assets/tailwindcss-icon.png" alt="tailwindcss logo" width="50">
       <img src="assets/nodejs-icon.png" alt="nodejs logo" width="50">
       <img src="assets/express-icon.png" alt="ex logo" width="50">
       <img src="assets/mysql-icon.png" alt="mysql logo" width="50">
