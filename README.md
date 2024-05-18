@@ -64,6 +64,7 @@ My goal is to continue creating exceptional digital experiences in this exciting
       <img src="assets/bubbleio-icon.png" alt="bl logo" width="50">
     </td>
     <td valign="top">
+      <img src="assets/django-icon.png" alt="django logo" width="50">
       <img src="assets/postgresql-icon.png" alt="aws logo" width="50">
       <img src="assets/mysql-icon.png" alt="mysql logo" width="50">
     </td>
