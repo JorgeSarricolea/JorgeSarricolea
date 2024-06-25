@@ -10,7 +10,7 @@ My goal is to continue creating exceptional digital experiences in this exciting
 
 <table>
   <tr>
-    <td align="center"><strong>Language 🌟</strong></td>
+    <td align="center"><strong>Languages 🌟</strong></td>
     <td align="center"><strong>Front-End 🎨</strong></td>
     <td align="center"><strong>Back-End ⚙️</strong></td>
     <td align="center"><strong>Cloud ☁️</strong></td>
