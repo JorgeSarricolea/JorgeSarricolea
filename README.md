@@ -18,6 +18,7 @@ My goal is to continue creating exceptional digital experiences in this exciting
   <tr>
     <td valign="top">
       <img src="assets/javascript-icon.png" alt="js logo" width="50">  
+      <img src="assets/typescript-icon.png" alt="typescript logo" width="50">  
     </td>
     <td valign="top">
       <img src="assets/reactjs-icon.png" alt="react logo" width="50">
@@ -42,7 +43,6 @@ My goal is to continue creating exceptional digital experiences in this exciting
     <td align="center"><strong>Languages 💡</strong></td>
   </tr>
   <td valign="top">
-    <img src="assets/typescript-icon.png" alt="typescript logo" width="50">  
     <img src="assets/python-icon.png" alt="python logo" width="50">  
     <img src="assets/java-icon.png" alt="ts logo" width="50">  
     <img src="assets/php-icon.png" alt="ts logo" width="50">
