@@ -1,6 +1,6 @@
 # Hi there, I'm [Jorge Sarricolea](https://jorgesarricolea.com) 👋
 
-More than two years ago, I embarked on my journey in web development, creating attractive and functional web applications.
+3 years ago, I embarked on my journey in web development, creating attractive and functional web applications.
 
 My focus is on merging technical skills with a keen eye for design, which drives me to constantly advance. I firmly believe that true changes requires order, discipline, and perseverance, which are essential for achieving success.
 
