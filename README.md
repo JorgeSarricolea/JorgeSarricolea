@@ -29,7 +29,7 @@ My goal is to continue creating exceptional digital experiences in this exciting
     </td>
     <td valign="top">
       <img src="assets/nodejs-icon.png" alt="nodejs logo" width="50">
-      <img src="assets/express-icon.png" alt="ex logo" width="50">
+      <img src="assets/express-icon.png" alt="express logo" width="50">
       <img src="assets/prisma-icon.png" alt="prisma logo" width="50">
     </td>
     <td valign="top">
@@ -46,8 +46,8 @@ My goal is to continue creating exceptional digital experiences in this exciting
   </tr>
   <td valign="top">
     <img src="assets/python-icon.png" alt="python logo" width="50">  
-    <img src="assets/java-icon.png" alt="ts logo" width="50">  
-    <img src="assets/php-icon.png" alt="ts logo" width="50">
+    <img src="assets/java-icon.png" alt="java logo" width="50">  
+    <img src="assets/php-icon.png" alt="php logo" width="50">
     </td>
 </table>
 
@@ -63,8 +63,8 @@ My goal is to continue creating exceptional digital experiences in this exciting
       <img src="assets/css-icon.png" alt="css logo" width="50">
       <img src="assets/jquery-icon.png" alt="jquery logo" width="50">
       <img src="assets/boostrap-icon.png" alt="boostrap logo" width="50">
-      <img src="assets/bubbleio-icon.png" alt="bl logo" width="50">
-      <img src="assets/scaffold-icon.png" alt="bl logo" width="50">
+      <img src="assets/bubbleio-icon.png" alt="bubble logo" width="50">
+      <img src="assets/scaffold-icon.png" alt="scaffold logo" width="50">
     </td>
     <td valign="top">
       <img src="assets/django-icon.png" alt="django logo" width="50">
