@@ -23,7 +23,7 @@ My goal is to continue creating exceptional digital experiences in this exciting
     <td valign="top">
       <img src="assets/nextjs-icon.png" alt="nextjs logo" width="50">
       <img src="assets/reactjs-icon.png" alt="react logo" width="50">
-      <img src="assets/angular-icon.png" alt="react logo" width="50">
+      <img src="assets/angular-icon.png" alt="angular logo" width="50">
       <img src="assets/astro-icon.png" alt="astro logo" width="50">
       <img src="assets/tailwindcss-icon.png" alt="tailwindcss logo" width="50">
     </td>
@@ -68,9 +68,9 @@ My goal is to continue creating exceptional digital experiences in this exciting
     </td>
     <td valign="top">
       <img src="assets/django-icon.png" alt="django logo" width="50">
-      <img src="assets/springboot-icon.png" alt="django logo" width="50">
-      <img src="assets/maven-icon.png" alt="django logo" width="50">
-      <img src="assets/wagmi-icon.png" alt="django logo" width="50">
+      <img src="assets/springboot-icon.png" alt="springboot logo" width="50">
+      <img src="assets/maven-icon.png" alt="maven logo" width="50">
+      <img src="assets/wagmi-icon.png" alt="wagmi logo" width="50">
       <img src="assets/postgresql-icon.png" alt="aws logo" width="50">
       <img src="assets/mysql-icon.png" alt="mysql logo" width="50">
     </td>
