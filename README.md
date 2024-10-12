@@ -55,6 +55,7 @@ My goal is to continue creating exceptional digital experiences in this exciting
   <tr>
     <td align="center"><strong>Front-End 🎨</strong></td>
     <td align="center"><strong>Back-End ⚙️</strong></td>
+    <td align="center"><strong>Blockchain ⛓️</strong></td>
   </tr>
   <tr>
     <td valign="top">
@@ -64,15 +65,17 @@ My goal is to continue creating exceptional digital experiences in this exciting
       <img src="assets/jquery-icon.png" alt="jquery logo" width="50">
       <img src="assets/boostrap-icon.png" alt="boostrap logo" width="50">
       <img src="assets/bubbleio-icon.png" alt="bubble logo" width="50">
-      <img src="assets/scaffold-icon.png" alt="scaffold logo" width="50">
     </td>
     <td valign="top">
       <img src="assets/django-icon.png" alt="django logo" width="50">
       <img src="assets/springboot-icon.png" alt="springboot logo" width="50">
       <img src="assets/maven-icon.png" alt="maven logo" width="50">
-      <img src="assets/wagmi-icon.png" alt="wagmi logo" width="50">
       <img src="assets/postgresql-icon.png" alt="aws logo" width="50">
       <img src="assets/mysql-icon.png" alt="mysql logo" width="50">
+    </td>
+    <td valign="top">
+      <img src="assets/scaffold-icon.png" alt="scaffold logo" width="50">
+      <img src="assets/wagmi-icon.png" alt="wagmi logo" width="50">
     </td>
   </tr>
 </table>
