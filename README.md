@@ -1,11 +1,11 @@
 # Hi there, I'm [Jorge Sarricolea](https://jorgesarricolea.com) 👋
 
-## Software Engineer | Tech Lead
-### 3 years of hands-on experience in developing end-to-end applications.
+## Software Engineer
+### Innovative Software Engineer | Expert in JavaScript & API Development | React, Node.js, Java Spring Boot & AWS Specialist | 3+ Years of Experience in Scalable Web Applications | Team Mentorship.
 
-My focus is on merging technical skills with a keen eye for design, which drives me to constantly advance. I firmly believe that true changes requires order, discipline, and perseverance, which are essential for achieving success.
+Software Engineer with 3 years of experience specializing in Angular, React, Java Spring Boot, Node.js, and AWS. I develop scalable, high-performance web applications that combine solid back-end architecture with intuitive front-end design. 
 
-My goal is to continue creating exceptional digital experiences in this exciting and ever-evolving field.
+Passionate about staying up to date with the latest technologies, I focus on optimizing workflows, solving complex problems, and mentoring junior developers to deliver impactful solutions. My goal is to continue expanding my technical expertise while contributing to innovative and value-driven projects.
 
 ## My stack:
 
