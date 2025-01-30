@@ -11,8 +11,6 @@ In addition to my backend expertise, I also have experience in frontend developm
     <td align="center"><strong>Languages 🌟</strong></td>
     <td align="center"><strong>Front-End 🎨</strong></td>
     <td align="center"><strong>Back-End ⚙️</strong></td>
-    <td align="center"><strong>Cloud ☁️</strong></td>
-    <td align="center"><strong>Testing and Tools ⚙️</strong></td>
   </tr>
   <tr>
     <td valign="top">
