@@ -3,8 +3,6 @@
 ## Software Engineer
 ### Software Engineer | Expert in JavaScript, Node.js, and API Development | 4 Years of Experience in Scalable Backend Systems | Focused on RESTful APIs, Express.js, and Performance Optimization
 
-Software Engineer with 4 years of experience specializing in JavaScript, Node.js, and API development. I focus on building scalable and high-performance backend systems, with expertise in RESTful APIs, Express.js, and performance optimization.
-
 In addition to my backend expertise, I also have experience in frontend development, working with frameworks like React and Angular to deliver seamless and intuitive user interfaces. My goal is to leverage my skills to create efficient, scalable solutions that drive impactful results.
 
 ## My stack:
