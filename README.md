@@ -15,6 +15,7 @@ Passionate about staying up to date with the latest technologies, I focus on opt
     <td align="center"><strong>Front-End 🎨</strong></td>
     <td align="center"><strong>Back-End ⚙️</strong></td>
     <td align="center"><strong>Cloud ☁️</strong></td>
+    <td align="center"><strong>Testing and Tools ⚙️</strong></td>
   </tr>
   <tr>
     <td valign="top">
@@ -36,6 +37,12 @@ Passionate about staying up to date with the latest technologies, I focus on opt
     </td>
     <td valign="top">
       <img src="assets/aws-icon.png" alt="aws logo" width="50">
+    </td>
+    <td valign="top" style="width: 50%;">
+      <img src="assets/jest-icon.png" alt="jest logo" width="50">
+      <img src="assets/vscode-icon.png" alt="vscode logo" width="50">
+      <img src="assets/git-icon.png" alt="git logo" width="50">
+      <img src="assets/postman-icon.png" alt="postman logo" width="50">
     </td>
   </tr>
 </table>
