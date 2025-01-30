@@ -36,7 +36,7 @@ In addition to my backend expertise, I also have experience in frontend developm
   <tr>
     <td align="center"><strong>Cloud ☁️</strong></td>
     <td align="center"><strong>Testing and Tools ⚙️</strong></td>
-    <td align="center"><strong>CD/CD 🔀</strong></td>
+    <td align="center"><strong>CI/CD 🔀</strong></td>
     <td align="center"><strong>Databases 🗄️</strong></td>
   </tr>
   <tr>
