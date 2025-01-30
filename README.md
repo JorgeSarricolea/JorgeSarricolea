@@ -31,6 +31,16 @@ In addition to my backend expertise, I also have experience in frontend developm
       <img src="assets/express-icon.png" alt="express logo" width="50">
       <img src="assets/prisma-icon.png" alt="prisma logo" width="50">
     </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center"><strong>Cloud ☁️</strong></td>
+    <td align="center"><strong>Testing and Tools ⚙️</strong></td>
+    <td align="center"><strong>CD/CD </strong></td>
+  </tr>
+  <tr>
     <td valign="top">
       <img src="assets/aws-icon.png" alt="aws logo" width="50">
     </td>
@@ -40,6 +50,10 @@ In addition to my backend expertise, I also have experience in frontend developm
       <img src="assets/vscode-icon.png" alt="vscode logo" width="50">
       <img src="assets/git-icon.png" alt="git logo" width="50">
       <img src="assets/postman-icon.png" alt="postman logo" width="50">
+    </td>
+    <td valign="top" style="width: 50%;">
+      <img src="assets/docker-icon.png" alt="docker logo" width="50">
+      <img src="assets/husky-icon.png" alt="husky logo" width="50">
     </td>
   </tr>
 </table>
