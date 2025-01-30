@@ -36,7 +36,8 @@ In addition to my backend expertise, I also have experience in frontend developm
   <tr>
     <td align="center"><strong>Cloud ☁️</strong></td>
     <td align="center"><strong>Testing and Tools ⚙️</strong></td>
-    <td align="center"><strong>CD/CD </strong></td>
+    <td align="center"><strong>CD/CD 🔀</strong></td>
+    <td align="center"><strong>Databases 🔀</strong></td>
   </tr>
   <tr>
     <td valign="top">
@@ -52,6 +53,10 @@ In addition to my backend expertise, I also have experience in frontend developm
     <td valign="top" style="width: 50%;">
       <img src="assets/docker-icon.png" alt="docker logo" width="50">
       <img src="assets/husky-icon.png" alt="husky logo" width="50">
+    </td>
+    <td valign="top" style="width: 50%;">
+      <img src="assets/postgresql-icon.png" alt="aws logo" width="50">
+      <img src="assets/mysql-icon.png" alt="mysql logo" width="50">
     </td>
   </tr>
 </table>
@@ -83,8 +88,6 @@ In addition to my backend expertise, I also have experience in frontend developm
       <img src="assets/django-icon.png" alt="django logo" width="50">
       <img src="assets/springboot-icon.png" alt="springboot logo" width="50">
       <img src="assets/maven-icon.png" alt="maven logo" width="50">
-      <img src="assets/postgresql-icon.png" alt="aws logo" width="50">
-      <img src="assets/mysql-icon.png" alt="mysql logo" width="50">
     </td>
     <td valign="top">
       <img src="assets/scaffold-icon.png" alt="scaffold logo" width="50">
