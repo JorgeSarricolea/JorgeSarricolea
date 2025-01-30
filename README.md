@@ -52,21 +52,16 @@ Passionate about staying up to date with the latest technologies, I focus on opt
 <table>
   <tr>
     <td align="center"><strong>Languages 💡</strong></td>
-  </tr>
-  <td valign="top">
-    <img src="assets/python-icon.png" alt="python logo" width="50">  
-    <img src="assets/java-icon.png" alt="java logo" width="50">  
-    <img src="assets/php-icon.png" alt="php logo" width="50">
-    </td>
-</table>
-
-<table>
-  <tr>
     <td align="center"><strong>Front-End 🎨</strong></td>
     <td align="center"><strong>Back-End ⚙️</strong></td>
     <td align="center"><strong>Blockchain ⛓️</strong></td>
   </tr>
   <tr>
+    <td valign="top">
+      <img src="assets/python-icon.png" alt="python logo" width="50">  
+      <img src="assets/java-icon.png" alt="java logo" width="50">  
+      <img src="assets/php-icon.png" alt="php logo" width="50">
+    </td>
     <td valign="top">
       <img src="assets/threejs-icon.png" alt="threejs logo" width="50">
       <img src="assets/html-icon.png" alt="html logo" width="50">
