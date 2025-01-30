@@ -1,6 +1,5 @@
 # Hi there, I'm [Jorge Sarricolea](https://jorgesarricolea.com) 👋
 
-## Software Engineer
 ### Software Engineer | Expert in JavaScript, Node.js, and API Development | 4 Years of Experience in Scalable Backend Systems | Focused on RESTful APIs, Express.js, and Performance Optimization
 
 In addition to my backend expertise, I also have experience in frontend development, working with frameworks like React and Angular to deliver seamless and intuitive user interfaces. My goal is to leverage my skills to create efficient, scalable solutions that drive impactful results.
