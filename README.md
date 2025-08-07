@@ -1,8 +1,11 @@
 # Hi there, I'm [Jorge Sarricolea](https://jorgesarricolea.com) 👋
 
-### Software Engineer | Expert in JavaScript, Node.js, and API Development | 4 Years of Experience in Scalable Backend Systems | Focused on RESTful APIs, Express.js, and Performance Optimization
+### Software Engineer | Expert in JavaScript/TypeScript & Java/Spring Boot | 4+ Years Building Scalable Applications | Focused on Modern Web Development, Microservices, and Cloud Architecture
 
-In addition to my backend expertise, I also have experience in frontend development, working with frameworks like React and Angular to deliver seamless and intuitive user interfaces. My goal is to leverage my skills to create efficient, scalable solutions that drive impactful results.
+Software Engineer with over 4 years of experience building scalable applications using both modern JavaScript ecosystem and enterprise Java technologies. Proficient in full-stack development with Node.js, React, Next.js for web applications, and Java Spring Boot for robust backend systems and microservices architecture.
+
+I specialize in designing and implementing scalable solutions using the best of
+both worlds: modern JavaScript for responsive frontends and rapid development, combined with Java's enterprise-grade reliability for critical backend systems. Experience includes leading technical initiatives, mentoring development teams, and delivering high-impact applications that handle complex business requirements and scale to serve thousands of users.
 
 ## My stack:
 
