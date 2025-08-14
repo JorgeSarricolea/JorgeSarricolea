@@ -29,7 +29,7 @@ both worlds: modern JavaScript for responsive frontends and rapid development, c
     </td>
     <td valign="top">
       <img src="assets/nodejs-icon.png" alt="nodejs logo" width="50">
-      <img src="assets/nodejs-icon.png" alt="nestjs logo" width="50">
+      <img src="assets/nestjs-icon.png" alt="nestjs logo" width="50">
       <img src="assets/express-icon.png" alt="express logo" width="50">
       <img src="assets/prisma-icon.png" alt="prisma logo" width="50">
     </td>
