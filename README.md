@@ -24,7 +24,7 @@ both worlds: modern JavaScript for responsive frontends and rapid development, c
       <img src="assets/nextjs-icon.png" alt="nextjs logo" width="50">
       <img src="assets/reactjs-icon.png" alt="react logo" width="50">
       <img src="assets/angular-icon.png" alt="angular logo" width="50">
-      <img src="assets/vue-icon.png" alt="vue logo" width="50">
+      <img src="assets/vuejs-icon.png" alt="vuejs logo" width="50">
       <img src="assets/astro-icon.png" alt="astro logo" width="50">
     </td>
     <td valign="top">
