@@ -58,8 +58,6 @@ I enjoy working across the stack—from systems and services to the user experie
   <tr>
     <td valign="top">
       <img src="assets/aws-icon.png" alt="AWS" width="50">
-      <img src="assets/vercel-icon.png" alt="Vercel" width="50">
-      <img src="assets/netlify-icon.png" alt="Netlify" width="50">
     </td>
     <td valign="top">
       <img src="assets/jest-icon.png" alt="Jest" width="50">
@@ -67,18 +65,14 @@ I enjoy working across the stack—from systems and services to the user experie
       <img src="assets/postman-icon.png" alt="Postman" width="50">
       <img src="assets/vscode-icon.png" alt="VSCode" width="50">
       <img src="assets/git-icon.png" alt="Git" width="50">
-      <img src="assets/sonarcloud-icon.png" alt="SonarCloud" width="50">
     </td>
     <td valign="top">
       <img src="assets/docker-icon.png" alt="Docker" width="50">
-      <img src="assets/github-icon.png" alt="GitHub Actions" width="50">
       <img src="assets/husky-icon.png" alt="Husky" width="50">
     </td>
     <td valign="top">
       <img src="assets/postgresql-icon.png" alt="PostgreSQL" width="50">
       <img src="assets/mysql-icon.png" alt="MySQL" width="50">
-      <img src="assets/redis-icon.png" alt="Redis" width="50">
-      <img src="assets/oracle-icon.png" alt="Oracle" width="50">
     </td>
   </tr>
 </table>
