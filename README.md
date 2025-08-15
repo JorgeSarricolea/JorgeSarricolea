@@ -1,11 +1,12 @@
 # Hi there, I'm [Jorge Sarricolea](https://jorgesarricolea.com) 👋
 
-### Software Engineer | Expert in JavaScript/TypeScript & Java/Spring Boot | 4+ Years Building Scalable Applications | Focused on Modern Web Development, Microservices, and Cloud Architecture
+### Software Engineer | 4+ Years Building Scalable Applications | Full-Stack Developer | Cloud & Product-Oriented Engineering
 
-Software Engineer with over 4 years of experience building scalable applications using both modern JavaScript ecosystem and enterprise Java technologies. Proficient in full-stack development with Node.js, React, Next.js for web applications, and Java Spring Boot for robust backend systems and microservices architecture.
+I'm a multidisciplinary Software Engineer with over 4 years of experience building full-stack web applications, distributed backend systems, and user-centered interfaces. I thrive in projects that demand both technical depth and product impact—designing scalable architectures, developing robust APIs, and delivering performant, responsive UIs.
 
-I specialize in designing and implementing scalable solutions using the best of
-both worlds: modern JavaScript for responsive frontends and rapid development, combined with Java's enterprise-grade reliability for critical backend systems. Experience includes leading technical initiatives, mentoring development teams, and delivering high-impact applications that handle complex business requirements and scale to serve thousands of users.
+From leading technical teams to shipping production-ready features, I’ve contributed across multiple sectors including finance, education, and blockchain. My strengths lie in building modular services, implementing authentication, automating infrastructure with CI/CD, and applying architectural best practices like SOLID principles and clean code.
+
+I enjoy working across the stack—from systems and services to the user experience—always with a focus on code quality, scalability, and reliability.
 
 ## My stack:
 
