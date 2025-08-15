@@ -7,7 +7,6 @@ I'm a multidisciplinary Software Engineer with over 4 years of experience buildi
 From leading technical teams to shipping production-ready features, I’ve contributed across multiple sectors including finance, education, and blockchain. My strengths lie in building modular services, implementing authentication, automating infrastructure with CI/CD, and applying architectural best practices like SOLID principles and clean code.
 
 I enjoy working across the stack—from systems and services to the user experience—always with a focus on code quality, scalability, and reliability.
-
 ## My stack:
 
 <table>
@@ -18,21 +17,33 @@ I enjoy working across the stack—from systems and services to the user experie
   </tr>
   <tr>
     <td valign="top">
-      <img src="assets/javascript-icon.png" alt="js logo" width="50">  
-      <img src="assets/typescript-icon.png" alt="typescript logo" width="50">  
+      <img src="assets/javascript-icon.png" alt="JavaScript" width="50">
+      <img src="assets/typescript-icon.png" alt="TypeScript" width="50">
+      <img src="assets/java-icon.png" alt="Java" width="50">
+      <img src="assets/python-icon.png" alt="Python" width="50">
+      <img src="assets/php-icon.png" alt="PHP" width="50">
     </td>
     <td valign="top">
-      <img src="assets/nextjs-icon.png" alt="nextjs logo" width="50">
-      <img src="assets/reactjs-icon.png" alt="react logo" width="50">
-      <img src="assets/angular-icon.png" alt="angular logo" width="50">
-      <img src="assets/vuejs-icon.png" alt="vuejs logo" width="50">
-      <img src="assets/astro-icon.png" alt="astro logo" width="50">
+      <img src="assets/reactjs-icon.png" alt="React" width="50">
+      <img src="assets/nextjs-icon.png" alt="Next.js" width="50">
+      <img src="assets/angular-icon.png" alt="Angular" width="50">
+      <img src="assets/vuejs-icon.png" alt="Vue" width="50">
+      <img src="assets/astro-icon.png" alt="Astro" width="50">
+      <img src="assets/threejs-icon.png" alt="Three.js" width="50">
+      <img src="assets/html-icon.png" alt="HTML" width="50">
+      <img src="assets/css-icon.png" alt="CSS" width="50">
+      <img src="assets/jquery-icon.png" alt="jQuery" width="50">
+      <img src="assets/boostrap-icon.png" alt="Bootstrap" width="50">
+      <img src="assets/bubbleio-icon.png" alt="Bubble.io" width="50">
     </td>
     <td valign="top">
-      <img src="assets/nodejs-icon.png" alt="nodejs logo" width="50">
-      <img src="assets/nestjs-icon.png" alt="nestjs logo" width="50">
-      <img src="assets/express-icon.png" alt="express logo" width="50">
-      <img src="assets/prisma-icon.png" alt="prisma logo" width="50">
+      <img src="assets/nodejs-icon.png" alt="Node.js" width="50">
+      <img src="assets/nestjs-icon.png" alt="NestJS" width="50">
+      <img src="assets/express-icon.png" alt="Express" width="50">
+      <img src="assets/prisma-icon.png" alt="Prisma" width="50">
+      <img src="assets/springboot-icon.png" alt="Spring Boot" width="50">
+      <img src="assets/django-icon.png" alt="Django" width="50">
+      <img src="assets/maven-icon.png" alt="Maven" width="50">
     </td>
   </tr>
 </table>
@@ -40,28 +51,34 @@ I enjoy working across the stack—from systems and services to the user experie
 <table>
   <tr>
     <td align="center"><strong>Cloud ☁️</strong></td>
-    <td align="center"><strong>Testing and Tools ⚙️</strong></td>
-    <td align="center"><strong>CI/CD 🔀</strong></td>
+    <td align="center"><strong>Testing & Tools 🔍</strong></td>
+    <td align="center"><strong>CI/CD 🚀</strong></td>
     <td align="center"><strong>Databases 🗄️</strong></td>
   </tr>
   <tr>
     <td valign="top">
-      <img src="assets/aws-icon.png" alt="aws logo" width="50">
+      <img src="assets/aws-icon.png" alt="AWS" width="50">
+      <img src="assets/vercel-icon.png" alt="Vercel" width="50">
+      <img src="assets/netlify-icon.png" alt="Netlify" width="50">
     </td>
-    <td valign="top" style="width: 50%;">
-      <img src="assets/jest-icon.png" alt="jest logo" width="50">
-      <img src="assets/swagger-icon.png" alt="swagger logo" width="50">
-      <img src="assets/vscode-icon.png" alt="vscode logo" width="50">
-      <img src="assets/git-icon.png" alt="git logo" width="50">
-      <img src="assets/postman-icon.png" alt="postman logo" width="50">
+    <td valign="top">
+      <img src="assets/jest-icon.png" alt="Jest" width="50">
+      <img src="assets/swagger-icon.png" alt="Swagger" width="50">
+      <img src="assets/postman-icon.png" alt="Postman" width="50">
+      <img src="assets/vscode-icon.png" alt="VSCode" width="50">
+      <img src="assets/git-icon.png" alt="Git" width="50">
+      <img src="assets/sonarcloud-icon.png" alt="SonarCloud" width="50">
     </td>
-    <td valign="top" style="width: 50%;">
-      <img src="assets/docker-icon.png" alt="docker logo" width="50">
-      <img src="assets/husky-icon.png" alt="husky logo" width="50">
+    <td valign="top">
+      <img src="assets/docker-icon.png" alt="Docker" width="50">
+      <img src="assets/github-icon.png" alt="GitHub Actions" width="50">
+      <img src="assets/husky-icon.png" alt="Husky" width="50">
     </td>
-    <td valign="top" style="width: 50%;">
-      <img src="assets/postgresql-icon.png" alt="aws logo" width="50">
-      <img src="assets/mysql-icon.png" alt="mysql logo" width="50">
+    <td valign="top">
+      <img src="assets/postgresql-icon.png" alt="PostgreSQL" width="50">
+      <img src="assets/mysql-icon.png" alt="MySQL" width="50">
+      <img src="assets/redis-icon.png" alt="Redis" width="50">
+      <img src="assets/oracle-icon.png" alt="Oracle" width="50">
     </td>
   </tr>
 </table>
@@ -70,33 +87,17 @@ I enjoy working across the stack—from systems and services to the user experie
 
 <table>
   <tr>
-    <td align="center"><strong>Languages 💡</strong></td>
-    <td align="center"><strong>Front-End 🎨</strong></td>
-    <td align="center"><strong>Back-End ⚙️</strong></td>
     <td align="center"><strong>Blockchain ⛓️</strong></td>
+    <td align="center"><strong>Others 🧩</strong></td>
   </tr>
   <tr>
     <td valign="top">
-      <img src="assets/python-icon.png" alt="python logo" width="50">  
-      <img src="assets/java-icon.png" alt="java logo" width="50">  
-      <img src="assets/php-icon.png" alt="php logo" width="50">
+      <img src="assets/scaffold-icon.png" alt="Scaffold" width="50">
+      <img src="assets/wagmi-icon.png" alt="Wagmi" width="50">
     </td>
     <td valign="top">
-      <img src="assets/threejs-icon.png" alt="threejs logo" width="50">
-      <img src="assets/html-icon.png" alt="html logo" width="50">
-      <img src="assets/css-icon.png" alt="css logo" width="50">
-      <img src="assets/jquery-icon.png" alt="jquery logo" width="50">
-      <img src="assets/boostrap-icon.png" alt="boostrap logo" width="50">
-      <img src="assets/bubbleio-icon.png" alt="bubble logo" width="50">
-    </td>
-    <td valign="top">
-      <img src="assets/django-icon.png" alt="django logo" width="50">
-      <img src="assets/springboot-icon.png" alt="springboot logo" width="50">
-      <img src="assets/maven-icon.png" alt="maven logo" width="50">
-    </td>
-    <td valign="top">
-      <img src="assets/scaffold-icon.png" alt="scaffold logo" width="50">
-      <img src="assets/wagmi-icon.png" alt="wagmi logo" width="50">
+      <img src="assets/openai-icon.png" alt="OpenAI API" width="50">
+      <img src="assets/stripe-icon.png" alt="Stripe API" width="50">
     </td>
   </tr>
 </table>
