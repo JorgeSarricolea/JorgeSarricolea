@@ -60,7 +60,6 @@ I enjoy working across the stack—from systems and services to the user experie
     <td valign="top">
       <img src="assets/aws-icon.png" alt="AWS" width="50">
       <img src="assets/vercel-icon.png" alt="Vercel" width="50">
-      <img src="assets/netlify-icon.png" alt="Netlify" width="50">
     </td>
     <td valign="top">
       <img src="assets/jest-icon.png" alt="Jest" width="50">
@@ -89,16 +88,11 @@ I enjoy working across the stack—from systems and services to the user experie
 <table>
   <tr>
     <td align="center"><strong>Blockchain ⛓️</strong></td>
-    <td align="center"><strong>Others 🧩</strong></td>
   </tr>
   <tr>
     <td valign="top">
       <img src="assets/scaffold-icon.png" alt="Scaffold" width="50">
       <img src="assets/wagmi-icon.png" alt="Wagmi" width="50">
-    </td>
-    <td valign="top">
-      <img src="assets/openai-icon.png" alt="OpenAI API" width="50">
-      <img src="assets/stripe-icon.png" alt="Stripe API" width="50">
     </td>
   </tr>
 </table>
