@@ -99,14 +99,23 @@ I enjoy working across the stack—from systems and services to the user experie
 
 <table>
   <tr>
-    <td colspan="2" align="center"><strong>Stats 📈</strong></td>
+    <td colspan="2" style="text-align: center;">
+      <strong>Stats 📈</strong>
+    </td>
   </tr>
   <tr>
-    <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeSarricolea&theme=dark&layout=compact" alt="Top Langs" />
+    <td style="vertical-align: top;">
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeSarricolea&theme=dark&layout=compact"
+        alt="Top Langs"
+      />
     </td>
-    <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/?username=JorgeSarricolea&theme=dark" alt="GitHub Stats" />
+    <td style="vertical-align: top;">
+      <img 
+        src="https://github-readme-stats.vercel.app/api/?username=JorgeSarricolea&theme=dark"
+        alt="GitHub Stats"
+      />
     </td>
   </tr>
 </table>
+
